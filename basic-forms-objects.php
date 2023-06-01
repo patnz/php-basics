@@ -94,5 +94,4 @@ foreach($capitals as $key => $value){
   // $total = rand(1, 21);
   // echo $total;
 
-
 ?>
