@@ -8,7 +8,7 @@
   <title>Document</title>
 </head>
 <body>
-  <form action="functions.php" method="post">
+  <form action="login-functions.php" method="post">
     <label for="">username: </label>
     <input type="text" name="username"><br>
     <label for="">password: </label>
